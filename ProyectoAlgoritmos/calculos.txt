@@ -1,0 +1,3 @@
+Ruta 0 Distancia:2148.9388804053738
+Ruta 1 Distancia:2168.461598797803
+Ruta 2 Distancia:2139.517334916855
